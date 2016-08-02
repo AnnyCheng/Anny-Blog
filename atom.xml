@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Anny&#39;s Blog</title>
   
-  <link href="/AnnyCheng.github.io/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/AnnyCheng.github.io/"/>
+  <link href="https://annycheng.github.io/"/>
   <updated>2016-08-02T06:33:48.415Z</updated>
-  <id>http://yoursite.com/AnnyCheng.github.io/</id>
+  <id>https://annycheng.github.io/</id>
   
   <author>
     <name>Anny Cheng</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>我的第一篇文章</title>
-    <link href="http://yoursite.com/AnnyCheng.github.io/2016/08/02/My-Gallery/"/>
-    <id>http://yoursite.com/AnnyCheng.github.io/2016/08/02/My-Gallery/</id>
+    <link href="https://annycheng.github.io/2016/08/02/My-Gallery/"/>
+    <id>https://annycheng.github.io/2016/08/02/My-Gallery/</id>
     <published>2016-08-02T06:30:11.000Z</published>
     <updated>2016-08-02T06:33:48.415Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>使用說明</title>
-    <link href="http://yoursite.com/AnnyCheng.github.io/2016/07/26/hello-world/"/>
-    <id>http://yoursite.com/AnnyCheng.github.io/2016/07/26/hello-world/</id>
+    <link href="https://annycheng.github.io/2016/07/26/hello-world/"/>
+    <id>https://annycheng.github.io/2016/07/26/hello-world/</id>
     <published>2016-07-26T08:11:26.489Z</published>
     <updated>2016-08-02T06:24:30.136Z</updated>
     

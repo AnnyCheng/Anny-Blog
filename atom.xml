@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://annycheng.github.io/"/>
-  <updated>2016-08-02T06:33:48.415Z</updated>
+  <updated>2016-08-02T08:16:54.792Z</updated>
   <id>https://annycheng.github.io/</id>
   
   <author>
@@ -16,43 +16,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的第一篇文章</title>
-    <link href="https://annycheng.github.io/2016/08/02/My-Gallery/"/>
-    <id>https://annycheng.github.io/2016/08/02/My-Gallery/</id>
-    <published>2016-08-02T06:30:11.000Z</published>
-    <updated>2016-08-02T06:33:48.415Z</updated>
+    <title>Sketch 學習筆記</title>
+    <link href="https://annycheng.github.io/2016/08/02/Sketch%20Study/"/>
+    <id>https://annycheng.github.io/2016/08/02/Sketch Study/</id>
+    <published>2016-08-02T08:15:21.000Z</published>
+    <updated>2016-08-02T08:16:54.792Z</updated>
     
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>使用說明</title>
-    <link href="https://annycheng.github.io/2016/07/26/hello-world/"/>
-    <id>https://annycheng.github.io/2016/07/26/hello-world/</id>
-    <published>2016-07-26T08:11:26.489Z</published>
-    <updated>2016-08-02T06:24:30.136Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<p>###工具介紹<br>創建畫部(artboard)<br>建立幾何圖形、編輯幾何圖形、旋轉、圖形工具列、交集聯集、上移下移圖層<br>群組、解散群組(hotkey介紹)<br>開啟尺標、開啟及調整背景方格(grid)、開啟及設定layout<br>圖層介紹</p>
+<a id="more"></a>
+<p>Sketch Shortcuts、Keyboards Shortcuts、9 個你應該知道的 Sketch 功能<br>(cmd+4: 選取物件至中，alt: hover 顯示距離，ctrl+f: 讓方形填滿artboard，Cmd+Shift+3：擷取全螢幕，Cmd+Shift+4：指定擷取範圍)</p>
+<p>文字編輯、複製樣式介紹(調整完一樣式須按 新增的樣式旁重新整理的按鈕)、管理樣式列表(organize text styles)</p>
+<p>長寬輸入框可以打算式：例如原本寬度為400px，想減半，可以打400/2，按下enter就可以完成<br>border-radius也可以很方便設定四邊不同的圓角：在輸入框打10/0/</p>
+<p>###Symbol介紹<br>以header為例：先製作一包含標題及選單的header, 將其全組起來，點選上方”create symbol”按鈕，即可建立起symbol<br>至左上insert→symbol選擇剛建立的symbol即可置入至頁面<br>若要編輯已建立的symbol：在symbol上點兩下即可進入<br>可單獨修改右側屬性質→文字及圖片，不影響其他Symbol<br>在圖層symbol上點右鍵→Detach from symbol：與Symbol分離，可獨立編輯文字、樣式等。</p>
+<p>開啟Sketch內建的Symbol UI：File → New From Template → IOS UI Design<br>點開後，即可在insert → symbol 中檢視所有內建的symbol UI ( 例如：keyboard, navigation bar…. )</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;###工具介紹&lt;br&gt;創建畫部(artboard)&lt;br&gt;建立幾何圖形、編輯幾何圖形、旋轉、圖形工具列、交集聯集、上移下移圖層&lt;br&gt;群組、解散群組(hotkey介紹)&lt;br&gt;開啟尺標、開啟及調整背景方格(grid)、開啟及設定layout&lt;br&gt;圖層介紹&lt;/p&gt;
     
     </summary>
     
+    
+      <category term="Sketch app, Sketch" scheme="https://annycheng.github.io/tags/Sketch-app-Sketch/"/>
     
   </entry>
   

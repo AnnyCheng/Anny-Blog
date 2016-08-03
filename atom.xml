@@ -80,9 +80,11 @@
     <link href="https://annycheng.github.io/2016/08/02/Sketch/"/>
     <id>https://annycheng.github.io/2016/08/02/Sketch/</id>
     <published>2016-08-02T08:15:21.000Z</published>
-    <updated>2016-08-03T07:03:38.544Z</updated>
+    <updated>2016-08-03T07:21:06.577Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Sketch-簡介"><a href="#Sketch-簡介" class="headerlink" title="Sketch 簡介"></a>Sketch 簡介</h3><ul>
+    <content type="html"><![CDATA[<p>由於公司分享會需要和大家分享 Sketch 的學習經驗，於是整理了一些內容，讓有想學習 Sketch 的捧油參考唷！</p>
+<a id="more"></a>
+<h3 id="Sketch-簡介"><a href="#Sketch-簡介" class="headerlink" title="Sketch 簡介"></a>Sketch 簡介</h3><ul>
 <li>Bohemian Coding 團隊開發 (2010, 荷蘭)</li>
 <li>Mac Only</li>
 <li>$99美元 ( 供兩台電腦 )</li>
@@ -91,10 +93,9 @@
 <li>可將元件設為Symbol重複利用</li>
 <li>輸出方便</li>
 <li>資源豐富( 外掛與範本 )</li>
-<li>搭配Zeplin、Marvel、Flinto做線上互動<br><br><br><a id="more"></a>
-<img src="/2016/08/02/Sketch/app-icon.png">
-</li>
+<li>搭配Zeplin、Marvel、Flinto做線上互動<br><br><br></li>
 </ul>
+<img src="/2016/08/02/Sketch/app-icon.png">
 <p><br><br></p>
 <h3 id="為何使用-Sketch"><a href="#為何使用-Sketch" class="headerlink" title="為何使用 Sketch"></a>為何使用 Sketch</h3><p>Sketch 可將設計師想法更完整呈現，使 Designer 與 Developer 溝通更順暢。</p>
 <img src="/2016/08/02/Sketch/sketch1.png">
@@ -160,16 +161,7 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;Sketch-簡介&quot;&gt;&lt;a href=&quot;#Sketch-簡介&quot; class=&quot;headerlink&quot; title=&quot;Sketch 簡介&quot;&gt;&lt;/a&gt;Sketch 簡介&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Bohemian Coding 團隊開發 (2010, 荷蘭)&lt;/li&gt;
-&lt;li&gt;Mac Only&lt;/li&gt;
-&lt;li&gt;$99美元 ( 供兩台電腦 )&lt;/li&gt;
-&lt;li&gt;UI Mockup ( Web/App 皆可 )&lt;/li&gt;
-&lt;li&gt;內建多種版型&lt;/li&gt;
-&lt;li&gt;可將元件設為Symbol重複利用&lt;/li&gt;
-&lt;li&gt;輸出方便&lt;/li&gt;
-&lt;li&gt;資源豐富( 外掛與範本 )&lt;/li&gt;
-&lt;li&gt;搭配Zeplin、Marvel、Flinto做線上互動&lt;br&gt;&lt;br&gt;&lt;br&gt;
+      &lt;p&gt;由於公司分享會需要和大家分享 Sketch 的學習經驗，於是整理了一些內容，讓有想學習 Sketch 的捧油參考唷！&lt;/p&gt;
     
     </summary>
     

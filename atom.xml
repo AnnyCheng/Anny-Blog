@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://annycheng.github.io/"/>
-  <updated>2016-08-02T09:39:05.238Z</updated>
+  <updated>2016-08-03T05:03:00.562Z</updated>
   <id>https://annycheng.github.io/</id>
   
   <author>
@@ -17,44 +17,65 @@
   
   <entry>
     <title>Sketch 學習筆記</title>
-    <link href="https://annycheng.github.io/2016/08/02/Sketch%20Study/"/>
-    <id>https://annycheng.github.io/2016/08/02/Sketch Study/</id>
+    <link href="https://annycheng.github.io/2016/08/02/Sketch/"/>
+    <id>https://annycheng.github.io/2016/08/02/Sketch/</id>
     <published>2016-08-02T08:15:21.000Z</published>
-    <updated>2016-08-02T09:39:05.238Z</updated>
+    <updated>2016-08-03T05:03:00.562Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="工具介紹"><a href="#工具介紹" class="headerlink" title="工具介紹"></a>工具介紹</h3><blockquote>
-<p>創建畫部(artboard)<br>建立幾何圖形、編輯幾何圖形、旋轉、圖形工具列、交集聯集、上移下移圖層<br>群組、解散群組(hotkey介紹)</p>
-</blockquote>
-<p>開啟尺標、開啟及調整背景方格(grid)、開啟及設定layout<br>圖層介紹</p>
-<a id="more"></a>
-<ul>
-<li>Sketch Shortcuts、Keyboards Shortcuts、9 個你應該知道的 Sketch 功能</li>
-<li>(cmd+4: 選取物件至中，alt: hover 顯示距離，ctrl+f: 讓方形填滿artboard，Cmd+Shift+3：擷取全螢幕，Cmd+Shift+4：指定擷取範圍)</li>
+    <content type="html"><![CDATA[<h3 id="Sketch-簡介"><a href="#Sketch-簡介" class="headerlink" title="Sketch 簡介"></a>Sketch 簡介</h3><ul>
+<li>Bohemian Coding 團隊開發 (2010, 荷蘭)</li>
+<li>Mac Only</li>
+<li>$99美元 ( 供兩台電腦 )</li>
+<li>UI Mockup ( Web/App 皆可 )</li>
+<li>內建多種版型</li>
+<li>可將元件設為Symbol重複利用</li>
+<li>輸出方便</li>
+<li>資源豐富( 外掛與範本 )</li>
+<li>搭配Zeplin、Marvel、Flinto做線上互動<br><br><br><img src="/2016/08/02/Sketch/app-icon.png">
+</li>
 </ul>
-<p>文字編輯、複製樣式介紹(調整完一樣式須按 新增的樣式旁重新整理的按鈕)、管理樣式列表(organize text styles)</p>
-<p>長寬輸入框可以打算式：例如原本寬度為400px，想減半，可以打400/2，按下enter就可以完成<br>border-radius也可以很方便設定四邊不同的圓角：在輸入框打10/0/</p>
-<hr>
-<h3 id="Symbol"><a href="#Symbol" class="headerlink" title="Symbol"></a>Symbol</h3><p>以header為例：先製作一包含標題及選單的header, 將其全組起來，點選上方”create symbol”按鈕，即可建立起symbol<br>至左上insert→symbol選擇剛建立的symbol即可置入至頁面<br>若要編輯已建立的symbol：在symbol上點兩下即可進入<br>可單獨修改右側屬性質→文字及圖片，不影響其他Symbol<br>在圖層symbol上點右鍵→Detach from symbol：與Symbol分離，可獨立編輯文字、樣式等。</p>
-<p>開啟Sketch內建的Symbol UI：File → New From Template → IOS UI Design<br>點開後，即可在insert → symbol 中檢視所有內建的symbol UI ( 例如：keyboard, navigation bar…. )</p>
-<h3 id="template-UI"><a href="#template-UI" class="headerlink" title="template UI"></a>template UI</h3><h3 id="Plugin"><a href="#Plugin" class="headerlink" title="Plugin　"></a>Plugin　</h3><p>Sketch Plugin Directory<br>下載要裝的plugin後，將.sketchplugin檔案置入sketch plugin folder 中<br>( Plugins → Manage Plugins → 左下角的齒輪下拉選單 → Show Plugins Folder )</p>
-<p>範例：<br>Lorem-Ipsum-Plugin-for-Sketch：文字自動產生器  ( shift+option+cmd+L )<br>content-generation-sketch-plugin: 內容產生器(圖片、姓名、性別…..)<br>Dynamic button：動態按鈕生成器 ( cmd+J )  →  小秘訣：在按鈕中文字圖層名稱輸入padding值，再重新cmd+J 即可<br>constraints：將元件自動放大至各尺寸<br>Copy &amp; Paste Shadows：可快速複製元件的陰影<br>Style Drop：快速複製元件樣式(先選取要被更改的物件 → 點選plugin → 選擇想複製樣式的物件 )<br>Clipboard Fill：從剪裁工具複製圖片填補任何圖形<br>( (shift + ctrl + cmd + 4)剪裁圖形，至sketch中選擇形狀，點選plugin )<br>long shadow：製作出flat design 的長陰影效果<br>magicmirror：快速將設計原型鏡射至選取區塊 (選取將鏡射的目的範圍，ctrl+shift+m跑出toolbar，選擇鏡射內容artboard，若方向不對可以選轉 )</p>
-<h3 id="檔案輸出"><a href="#檔案輸出" class="headerlink" title="檔案輸出　"></a>檔案輸出　</h3><p>slice工具介紹<br>如何輸出多種尺寸<br>一秒變圖檔→將元件包成group，直接拖出至桌面→立刻建立起png檔。</p>
-<h3 id="取得CSS樣式"><a href="#取得CSS樣式" class="headerlink" title="取得CSS樣式　"></a>取得CSS樣式　</h3><p>在元件上點右鍵 → Copy CSS Attributes , 貼上編輯器即可</p>
-<h3 id="Share-功能"><a href="#Share-功能" class="headerlink" title="Share 功能　"></a>Share 功能　</h3><p>除了可在桌機開起瀏覽器檢視，也可用手機檢視</p>
-<h3 id="Zeplin-上傳平台"><a href="#Zeplin-上傳平台" class="headerlink" title="Zeplin 上傳平台　"></a>Zeplin 上傳平台　</h3><p>安裝plugin：先用sketch plugin tool 安裝，就可使用。<br>可自動產生物件樣式、間距等資訊，成為Designer與Developer間溝通的橋樑。<br>Zeplin官網連結：免費會員可放一個專案<br>Marvel官網連結：免費會員可放三個專案</p>
+<a id="more"></a>
+<p><br><br></p>
+<h3 id="為何使用-Sketch"><a href="#為何使用-Sketch" class="headerlink" title="為何使用 Sketch"></a>為何使用 Sketch</h3><p>Sketch 可將設計師想法更完整呈現，使 Designer 與 Developer 溝通更順暢。</p>
+<img src="/2016/08/02/Sketch/sketch1.jpg">
+<p><br><br></p>
+<h3 id="工具介紹"><a href="#工具介紹" class="headerlink" title="工具介紹"></a>工具介紹</h3><ul>
+<li>工具列</li>
+<li>圖層列表</li>
+<li>畫布區</li>
+<li>屬性編輯區<br><br><img src="/2016/08/02/Sketch/sketch2.jpg">
+</li>
+</ul>
+<p><br><br></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;工具介紹&quot;&gt;&lt;a href=&quot;#工具介紹&quot; class=&quot;headerlink&quot; title=&quot;工具介紹&quot;&gt;&lt;/a&gt;工具介紹&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;創建畫部(artboard)&lt;br&gt;建立幾何圖形、編輯幾何圖形、旋轉、圖形工具列、交集聯集、上移下移圖層&lt;br&gt;群組、解散群組(hotkey介紹)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;開啟尺標、開啟及調整背景方格(grid)、開啟及設定layout&lt;br&gt;圖層介紹&lt;/p&gt;
+      &lt;h3 id=&quot;Sketch-簡介&quot;&gt;&lt;a href=&quot;#Sketch-簡介&quot; class=&quot;headerlink&quot; title=&quot;Sketch 簡介&quot;&gt;&lt;/a&gt;Sketch 簡介&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Bohemian Coding 團隊開發 (2010, 荷蘭)&lt;/li&gt;
+&lt;li&gt;Mac Only&lt;/li&gt;
+&lt;li&gt;$99美元 ( 供兩台電腦 )&lt;/li&gt;
+&lt;li&gt;UI Mockup ( Web/App 皆可 )&lt;/li&gt;
+&lt;li&gt;內建多種版型&lt;/li&gt;
+&lt;li&gt;可將元件設為Symbol重複利用&lt;/li&gt;
+&lt;li&gt;輸出方便&lt;/li&gt;
+&lt;li&gt;資源豐富( 外掛與範本 )&lt;/li&gt;
+&lt;li&gt;搭配Zeplin、Marvel、Flinto做線上互動&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;/2016/08/02/Sketch/app-icon.png&quot;&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     
+      <category term="UI 技術" scheme="https://annycheng.github.io/categories/UI-%E6%8A%80%E8%A1%93/"/>
     
-      <category term="Sketch app, Sketch, Sketch 學習筆記, Sketch Study" scheme="https://annycheng.github.io/tags/Sketch-app-Sketch-Sketch-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-Sketch-Study/"/>
+    
+      <category term="Sketch app" scheme="https://annycheng.github.io/tags/Sketch-app/"/>
+    
+      <category term="Sketch" scheme="https://annycheng.github.io/tags/Sketch/"/>
+    
+      <category term="Sketch 學習筆記" scheme="https://annycheng.github.io/tags/Sketch-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/"/>
+    
+      <category term="Sketch Study" scheme="https://annycheng.github.io/tags/Sketch-Study/"/>
     
   </entry>
   

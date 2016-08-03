@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://annycheng.github.io/"/>
-  <updated>2016-08-03T05:11:03.121Z</updated>
+  <updated>2016-08-03T05:51:15.993Z</updated>
   <id>https://annycheng.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://annycheng.github.io/2016/08/02/Sketch/"/>
     <id>https://annycheng.github.io/2016/08/02/Sketch/</id>
     <published>2016-08-02T08:15:21.000Z</published>
-    <updated>2016-08-03T05:11:03.121Z</updated>
+    <updated>2016-08-03T05:51:15.993Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Sketch-簡介"><a href="#Sketch-簡介" class="headerlink" title="Sketch 簡介"></a>Sketch 簡介</h3><ul>
 <li>Bohemian Coding 團隊開發 (2010, 荷蘭)</li>
@@ -47,6 +47,55 @@
 </li>
 </ul>
 <p><br><br></p>
+<h3 id="Plugin"><a href="#Plugin" class="headerlink" title="Plugin"></a>Plugin</h3><ul>
+<li>Sketch Toolbox</li>
+<li>Icon-Font</li>
+<li>Lorem Ipsum</li>
+<li>Content Generation</li>
+<li>Dynamic Button</li>
+<li>Constraints</li>
+<li>Copy &amp; Paste Shadows</li>
+<li>Style Drop</li>
+<li>Clipboard Fill</li>
+<li>Long Shadows</li>
+<li>Magic Mirror</li>
+</ul>
+<p><br><br></p>
+<h3 id="Template-Kit"><a href="#Template-Kit" class="headerlink" title="Template Kit"></a>Template Kit</h3><ul>
+<li>Sketch Foundation Kit</li>
+<li>Bootstrap3</li>
+</ul>
+<p><br><br></p>
+<h3 id="檔案輸出"><a href="#檔案輸出" class="headerlink" title="檔案輸出"></a>檔案輸出</h3><ul>
+<li>一次存多種尺寸</li>
+<li>一秒存好檔</li>
+</ul>
+<p><br><br></p>
+<h3 id="Share-平台"><a href="#Share-平台" class="headerlink" title="Share 平台"></a>Share 平台</h3><ul>
+<li>Zeplin</li>
+<li>Invision</li>
+</ul>
+<p><br><br></p>
+<h3 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h3><ul>
+<li>容易上手</li>
+<li>善用 Plugins、Template</li>
+<li>設計師可以更專注於使用者體驗設計上</li>
+<li>提高設計師與工程師的溝通效率</li>
+<li>透過討論平台，更真實呈現設計師想法</li>
+</ul>
+<p><br><br></p>
+<h3 id="相關連結"><a href="#相關連結" class="headerlink" title="相關連結"></a>相關連結</h3><ul>
+<li><a href="https://www.sketchapp.com/" target="_blank" rel="external">Sketch</a></li>
+<li><a href="http://www.sketchcn.com/" target="_blank" rel="external">Sketch 中文網</a></li>
+<li><a href="https://github.com/sketchplugins/plugin-directory" target="_blank" rel="external">Sketch Plugin Directory</a></li>
+<li><a href="http://sketchshortcuts.com/" target="_blank" rel="external">Sketch Shortcuts</a></li>
+<li><a href="http://www.sketchappsources.com/" target="_blank" rel="external">Sketch APP Sources</a></li>
+<li><a href="https://zeplin.io/" target="_blank" rel="external">ZEPLIN</a></li>
+<li><a href="https://www.invisionapp.com/" target="_blank" rel="external">InVision</a></li>
+<li><a href="https://speakerdeck.com/patw0929/shi-yong-sketch-gai-shan-cheng-shi-yu-she-ji-de-he-zuo-ji-biao-zhu-fang-shi" target="_blank" rel="external">使用 Sketch 改善程式與設計的合作及標註方式</a></li>
+<li><a href="https://blog.patw.me/archives/1114/use-sketch-to-improve-flow-of-frontend-and-design/" target="_blank" rel="external">使用 SKETCH 改善網頁前端與設計的標註與合作方式</a></li>
+<li><a href="http://blog.techbridge.cc/2016/06/04/sketch-prototyping-for-engineer/" target="_blank" rel="external">給工程師的 Sketch Prototyping 簡易入門教學</a></li>
+</ul>
 ]]></content>
     
     <summary type="html">
